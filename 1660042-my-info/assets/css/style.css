@@ -1,0 +1,32 @@
+.image.fit img{
+	width: 400px;
+	/*background-image: url("background-avatar.jpg");*/
+	/*height: 400px;*/
+	margin: auto;
+}
+.image.fit{
+	background-image: url("../../images/background-avatar.jpg");
+	background-position: center;
+}
+p{
+	color: #000000;
+}
+.content{
+	width: 70%;
+	margin: auto;
+
+}
+.content p{
+	padding-top: 0px;
+	margin-top: -20px;
+}
+.special p{
+	color: #1c4d9e;
+	font-size: 20px;
+}
+.inner p{
+	font-size: 18px;
+}
+h2{
+	color: red;
+}
